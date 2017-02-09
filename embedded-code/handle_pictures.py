@@ -9,10 +9,10 @@ last_uploaded = ' '
 last_upload_time = 0
 
 #Hide this
-APP_KEY = 'lJqqQAIywQVX0auWKq6wWemWc'
-APP_SECRET = 'GXjsn3F7iw4XzMSVKIEfIGmwlpXk4Wgs9fz04fX22w8fMjIB25'
-OAUTH_TOKEN = '536767139-CpBCtNkSiZ6IdGOD3IYj3SKKPM8gfK4gh3CX8gE0'
-OAUTH_TOKEN_SECRET = 'S6CJWSxu0G5f4LHHoKGz1G0zAMvg2ugHZxcqXIq1VKxdA'
+APP_KEY =  '1'
+APP_SECRET = '1'
+OAUTH_TOKEN = '5'
+OAUTH_TOKEN_SECRET = 'S'
 
 import glob
 import os
